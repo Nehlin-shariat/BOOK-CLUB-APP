@@ -8,3 +8,7 @@ The aim of this app is to create a platform for the book/reading club I intend t
    book and create a reading sessions 
 3. Enable mrmbers to request books as well as show the 
    availability of books.
+
+
+
+## Deal with the git and github problem
